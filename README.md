@@ -1,10 +1,5 @@
 # 📊 Superstore Data Analysis: Sales, Profit & Regional Insights
 
-[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
-[![Pandas](https://img.shields.io/badge/Pandas-2.0.3-green.svg)](https://pandas.pydata.org/)
-[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)](https://jupyter.org/)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-
 ## 📌 Project Overview
 
 This project performs a comprehensive data analysis on the **Superstore Dataset** using Python and Pandas. The goal is to uncover key business insights about sales performance, profitability, regional trends, customer segments, and seasonal patterns to provide **data-driven recommendations**.
@@ -89,10 +84,10 @@ This project performs a comprehensive data analysis on the **Superstore Dataset*
 ### Sales Trends Over Time
 | Period | Performance |
 |--------|-------------|
-| November - December | 🔥 Peak sales (holiday season) |
-| January - February | ❌ Lowest sales (post-holiday drop) |
-| March - October | 📊 Moderate & stable |
-| Year over Year | 📈 Consistent growth (2014-2017) |
+| November - December | Peak sales (holiday season) |
+| January - February | Lowest sales (post-holiday drop) |
+| March - October |  Moderate & stable |
+| Year over Year | Consistent growth (2014-2017) |
 
 ---
 
@@ -100,11 +95,11 @@ This project performs a comprehensive data analysis on the **Superstore Dataset*
 
 | Chart | Purpose |
 |-------|---------|
-| 📈 Line Chart | Sales trend over time (seasonal patterns) |
-| 📊 Bar Chart | Sales by category |
-| 📊 Bar Chart | Profit by region |
-| 🥧 Pie Chart | Customer segment distribution |
-| 🌡️ Heatmap | Missing values validation |
+|  Line Chart | Sales trend over time (seasonal patterns) |
+|  Bar Chart | Sales by category |
+|  Bar Chart | Profit by region |
+|  Pie Chart | Customer segment distribution |
+|  Heatmap | Missing values validation |
 
 ---
 
