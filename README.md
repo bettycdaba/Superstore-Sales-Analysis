@@ -1,4 +1,4 @@
-# 📊 Superstore Data Analysis: Sales, Profit & Regional Insights
+# 📊 Superstore Data Analysis
 
 ## 📌 Project Overview
 
